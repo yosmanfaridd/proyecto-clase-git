@@ -1,2 +1,1 @@
-﻿# Proyecto Clase Git
-La rama de Juan 
+Hola
